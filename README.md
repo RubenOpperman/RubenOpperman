@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Development Student
 ----------------------------
 
-I'm an aspiring software developer with a passion for coding and creating practical solutions. Currently, learning HTML, CSS, and JavaScript, with a focus on TailwindCSS to build modern, responsive web designs. I love learning new technologies and constantly improving my skills. My GitHub showcases my journey, projects, and experiments as I grow as a developer. Feel free to explore my work and connect with me! 🚀
+I'm an aspiring software developer with a passion for coding and creating practical solutions. Currently, learning HTML, CSS, and JavaScript, with a focus on TailwindCSS to build modern, responsive web designs.
+
+I love learning new technologies and constantly improving my skills. My GitHub showcases my journey, projects, and experiments as I grow as a developer. Feel free to explore my work and connect with me! 🚀
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [oppiesfam123@gmail.com](mailto:oppiesfam123@gmail.com)
