@@ -9,6 +9,8 @@ I'm an aspiring software developer with a passion for coding and creating practi
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [oppiesfam123@gmail.com](mailto:oppiesfam123@gmail.com)
 * 🧠  I'm learning TailwindCSS
+* 🤝  I'm open to collaborating on a website with fellow learners to gain experience
+* ⚡  I play musical instruments in my free time
 
 ### Skills
 
